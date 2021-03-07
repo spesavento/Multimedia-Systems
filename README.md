@@ -5,11 +5,8 @@ Please reach out if you would like to see the code, which will be posted before 
 ### Project 1
 <b>Theory:</b> Bit-rate, quantization, temporal aliasing <br>
 <b>Java Programming:</b> Quantization and subsampling in the YUV space
-Q
-
-Subsample Y (luminance)
-
-Subsample UV (chrominance)
+1. original  2. quantization 3. subsample Y (luminance) 4. Subsample UV (chrominance)
+<img src="https://github.com/spesavento/Multimedia-Systems/blob/main/Project_1/project1_image2.png" width="510" height="500">
 
 ### Project 2
 <b>Theory:</b> Color threory, entropy coding, lossless compression (Huffman), lossy compression (DPCM) <br>
