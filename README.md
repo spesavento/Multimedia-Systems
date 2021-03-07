@@ -1,5 +1,6 @@
 # Multimedia-Systems
 
+This repository contains both personal projects, as well as projects related to a graduate course I am taking. 
 Please reach out if you would like to see the code, which will be posted before the summer. 
 
 ### Project 1
