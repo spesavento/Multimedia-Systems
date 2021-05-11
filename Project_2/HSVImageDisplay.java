@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.image.*;
 import java.io.*;
 import javax.swing.*;
-
+ 
 public class HSVImageDisplay {
     
 	JFrame frame;
