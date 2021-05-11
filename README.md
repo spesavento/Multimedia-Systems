@@ -17,7 +17,7 @@ Please reach out if you would like to see the code, which will be posted before 
 
 ### Project 3
 <b>Theory:</b> DCT Coding, Dithering <br>
-<b>Java Programming:</b> Comparing and contrasting the frequency space representations using the Discrete Cosine Transform and the Discrete Wavelet Transform
+<b>Java Programming:</b> Comparing and contrasting the frequency space representations using the Discrete Cosine Transform and the Discrete Wavelet Transform<br>
  <img src="https://github.com/spesavento/Multimedia-Systems/blob/main/Project_3/project3_262144.png" width="511" height="267.5">
  <img src="https://github.com/spesavento/Multimedia-Systems/blob/main/Project_3/project3_65536.png" width="511" height="267.5">
  <img src="https://github.com/spesavento/Multimedia-Systems/blob/main/Project_3/project3_16384.png" width="511" height="267.5">
